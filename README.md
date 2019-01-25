@@ -2,4 +2,4 @@
 
 Run the application
 
-Browse localhost:****/home/chat
+Browse **localhost:****/home/chat**
